@@ -4,10 +4,10 @@ export default function Document() {
   return (
     <Html>
       <Head>
-        <meta property="og:title" content="AeternityChat" key="title" />
+        <meta property="og:title" content="HPT Assistant" key="title" />
         <meta
           property="og:description"
-          content="Build with Aeternity Blockchain. Aeternity Chatbot"
+          content="Chatbot to act as assistant for HPT employees"
           key="description"
         />
         <meta
