@@ -12,7 +12,7 @@ Navigating through numerous web links and pages to find answers about ISO 27001 
 ## What we built 👨‍💻
 This bot is designed to assist users in comprehending the compliance. The bot leverages natural language processing to enable users to pose questions in a conversational manner, tailored for the HPT employees. It utilizes AI algorithms to retrieve the most pertinent information from an extensive database concerning the compliance.
 
-## How it is solved ✨
+## How it solved ✨
 Our solution provides a centralized platform for obtaining comprehensive information about ISO 27001 compliance of HPT. This bot, built atop the GeminiAI API, delivers concise text-based responses and even provides auditory answers for enhanced accessibility.
 
 ### Shortcomings:
