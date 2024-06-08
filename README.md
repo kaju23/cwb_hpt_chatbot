@@ -6,8 +6,8 @@ To enhance understanding of ISO 27001, I have developed Gemini powered bot to ad
 
 ## Welcome 👋 to Support bot
 
-<img width="950" alt="ISO 27001 support" src="">
-![image](https://github.com/kaju23/cwb_hpt_chatbot/assets/104551058/daf0cb3e-856d-4567-b403-ce889b089179)
+<img width="950" alt="ISO 27001 support" src="https://github.com/kaju23/cwb_hpt_chatbot/assets/104551058/daf0cb3e-856d-4567-b403-ce889b089179">
+![image]()
 
 ## Problem
 Navigating through numerous web links and pages to find answers about ISO 27001 can be tedious and often yields inconsistent results.
