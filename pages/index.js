@@ -1,6 +1,6 @@
 import Head from "next/head";
 import Image from "next/image";
-import aelogo from "../assets/aeternity-ae-logo.svg";
+import hptlogo from "../assets/hpt_logo.jpg";
 import { useEffect } from "react";
 import Chat from "./components/Chat";
 import AOS from "aos";
@@ -32,28 +32,28 @@ const Home = () => {
   return (
     <div className="root">
       <Head 
-        title="Æternity Chatbot"
-        description="Æternity Chatbot"
-        keywords="Æternity, Chatbot, Æternity Chatbot"
+        title="Support Chatbot"
+        description="Support Chatbot"
+        keywords="Support, Chatbot, Support Chatbot"
       />
       <Chat getReply={getReply} />
 
       <div className="badge-container grow">
         <a
-          href="https://docs.aeternity.com/"
+          href="https://hpt.vn/en/"
           target="_blank"
           rel="noreferrer"
         >
           <div className="badge">
-            <Image src={aelogo} alt="Aeternity Logo" />
-            <p>Æternity Docs</p>
+            <Image src={hptlogo} alt="HPT Logo" />
+            <p>Official Website</p>
           </div>
         </a>
       </div>
 
       <div className="badge-container1 grow">
         <a
-          href="https://github.com/SudhansuuRanjan/aeternity-chat/"
+          href="https://github.com/kaju23/cwb_hpt_chatbot/"
           target="_blank"
           rel="noreferrer"
         >
