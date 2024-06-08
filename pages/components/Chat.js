@@ -72,11 +72,11 @@ const Chat = ({ getReply }) => {
   return (
     <div className="chat__container">
       <div className="chat__header">
-        <span>Æ Chat</span>
+        <span>HPT Assistant</span>
       </div>
       <div className="chat__body" ref={container}>
         <p className="ai__chat">
-          Hii there! You can ask me questions related to Æternity Blockchain.
+          Hii there! How can I help you?
         </p>
         {data.map((item, index) => (
           <div
