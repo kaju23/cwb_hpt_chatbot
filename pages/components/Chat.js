@@ -72,7 +72,7 @@ const Chat = ({ getReply }) => {
   return (
     <div className="chat__container">
       <div className="chat__header">
-        <span>HPT Assistant</span>
+        <span>Lottum HPT Assistant</span>
       </div>
       <div className="chat__body" ref={container}>
         <p className="ai__chat">
