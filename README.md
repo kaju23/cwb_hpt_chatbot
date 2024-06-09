@@ -1,10 +1,8 @@
-## Welcome 👋 to ISO 27001 Support bot
+## Welcome 👋 to Lottum HPT Assistant
 
 To enhance understanding of ISO 27001, I have developed Gemini powered bot to address all your inquiries. This bot is crafted with Gemini AI and boasts a user-friendly interface, providing a conversational experience akin to chatting with a assistant.
 
 🔗 https://cwb-hpt-chatbot.vercel.app/
-
-## Welcome 👋 to Support bot
 
 <img width="950" alt="ISO 27001 support" src="https://github.com/kaju23/cwb_hpt_chatbot/assets/104551058/daf0cb3e-856d-4567-b403-ce889b089179">
 
